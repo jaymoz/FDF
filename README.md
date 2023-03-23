@@ -1,8 +1,8 @@
 ## Project description
-This project is about creating a simplified graphic “wireframe” (“fils de fer” in French,
+This project is about creating a graphic “wireframe” (“fils de fer” in French,
 hence the name of the project) representation of a relief landscape linking various points
-(x, y, z) via segments. The coordinates of this landscape are stored in a file passed as
-a parameter to your program. Here is an example:
+(x, y, z) via segments. The program processes coordinates as input and creates a 3D wireframe model
+representation(i.e isometric and parallel projection) of a relief landscape:
 
 <img width="604" alt="Screenshot 2021-11-21 at 20 47 01" src="https://user-images.githubusercontent.com/62575348/142773189-996b1da5-34db-4018-a4e7-e1b0403c89b0.png">
 Each number corresponds to a point in space:
